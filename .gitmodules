@@ -5,3 +5,7 @@
 [submodule "SeroTrackR"]
 	path = SeroTrackR
 	url = https://github.com/dionnecargy/serotrackr
+[submodule "shiny.fluent"]
+	path = shiny.fluent
+	url = https://github.com/Appsilon/shiny.fluent
+	registered = false
